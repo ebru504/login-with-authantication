@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088607462957",
+    "project_id": "julymon-7take",
+    "storage_bucket": "julymon-7take.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088607462957:android:a0e555d30ac6ea40dd3aa4",
+        "android_client_info": {
+          "package_name": "com.example.a11julymon_7take"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088607462957-pedks76dkh5jjhgul9m2napc7or2qclj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6TGEbBWzB8iaLhHygJlOFtF6HCx_7o1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088607462957-pedks76dkh5jjhgul9m2napc7or2qclj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
